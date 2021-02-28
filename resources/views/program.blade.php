@@ -2,7 +2,7 @@
 
 @section('title', 'Program')
 
-@parent
+
 
 @section('content')
         <h1>Program Kerja</h1>
