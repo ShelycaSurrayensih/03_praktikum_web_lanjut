@@ -6,10 +6,10 @@
 
 @parent
 
-    <p>NAMA: SHELYCA SURRAYENSIH </p>
+    <p>Sidebar Halaman Home</p>
 
 @endsection
 
 @section('content')
-    <p>NIM:1941720021</p>
+    <p>Ini adalah bagian Konten</p>
 @endsection
